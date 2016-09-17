@@ -1,4 +1,4 @@
-#Simple Rest Api
+#Doctrine Orm Deployment
 A simple example to deploy Doctrine Orm on any project
 
 ##Requirements
