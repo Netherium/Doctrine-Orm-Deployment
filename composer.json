@@ -1,6 +1,6 @@
 {
   "name": "orm/project",
-  "description": "Orm Project",
+  "description": "Doctrine Orm Deployment",
   "minimum-stability": "dev",
   "authors": [
     {
