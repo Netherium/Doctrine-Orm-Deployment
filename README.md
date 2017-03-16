@@ -1,7 +1,7 @@
-#Doctrine Orm Deployment
+# Doctrine Orm Deployment
 A simple example to deploy Doctrine Orm on any project
 
-##Requirements
+## Requirements
 * A database server supported by [doctrine driver](http://docs.doctrine-project.org/projects/doctrine-dbal/en/latest/reference/configuration.html#driver)
 
 
