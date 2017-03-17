@@ -10,7 +10,7 @@ A simple example to deploy Doctrine Orm on any project
 3. Check `bootstrap.php` and change parameters according to the database you would like to use. For Sqlite create an empty file named `db.sqlite` under folder `data`
 4. Create database: `vendor\bin\doctrine orm:schema-tool:create` 
 5. Update schema: `vendor\bin\doctrine orm:generate-entities src`
-6. Load sample data: `vendor\bin\doctrine orm:generate-repositories src`
+6. Generate entities repositories: `vendor\bin\doctrine orm:generate-repositories src`
  
 ## Authors
 **Netherium**
